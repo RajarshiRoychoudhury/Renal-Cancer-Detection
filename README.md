@@ -16,9 +16,13 @@ Training
 
 # Cancer detection
 **Procedure**
+
+
 Preprocessing
 * The textual data was one-hot encoded. Numeric data remained as it is.
 * The logarithmic values of the columns were taken as a form of normalisation(this ensured best accuracy amongst other preprocessing techniques like standard scalar)
+
+
 Training
 * Data obtained from preprocessing was sent into classifiers like svm, random forest, gradient boot classifier, decision tree with 5 folds cross validation.
 
