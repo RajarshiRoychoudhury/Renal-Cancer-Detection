@@ -4,7 +4,7 @@
 * 3 files on cancer_train_final_ab_features.ipnyb
 * ab denotes the number of features used for classification.(28,33,29 features)
 
-#Feature Ranking
+# Feature Ranking
 
 **Procedure**
 Preprocessing:
@@ -14,7 +14,7 @@ Training
 * After all the classification score was calculated, the scores were reverse sorted. The largest accuracy denoted best
 * classification and hence was crucial for good classification. The features were printed according to their ranks
 
-#Cancer detection
+# Cancer detection
 **Procedure**
 Preprocessing
 * The textual data was one-hot encoded. Numeric data remained as it is.
