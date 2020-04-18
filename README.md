@@ -13,8 +13,7 @@ Preprocessing:
 * The textual features are one-hot-encoded. The number of unique column values in the features are assigned numbers. Numeric data remained untouched.
 Training
 * Then each column was fed into a classifier, and the classification score was mapped with the feature name.
-* After all the classification score was calculated, the scores were reverse sorted. The largest accuracy denoted best
-* classification and hence was crucial for good classification. The features were printed according to their ranks
+* After all the classification score was calculated, the scores were reverse sorted. The largest accuracy denoted best classification and hence was crucial for good classification. The features were printed according to their ranks
 
 # Cancer detection
 **Procedure**
