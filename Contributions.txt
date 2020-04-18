@@ -1,0 +1,8 @@
+Name:Rajarshi Roychoudhury
+Email: rroychoudhury2@gmail.com
+
+List of Contributions:
+        1) Wrote the code for GLCM and LBP calculation in Dicom Images
+        2)Ranked Features according to their capability to classify cancer grades
+        3)Preprocessing of Training data
+        4)Built models for clasification task
